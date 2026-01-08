@@ -40,7 +40,7 @@
 
 <div align="center">
   <h3>📊 Domínio de Linguagens</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisoferreiradev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisoferreiradev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Linguagens de tarcisoferreiradev" />
 </div>
 
 <br/>
@@ -58,8 +58,8 @@
         Plataforma multiplataforma (KMP) de nutrição. O Core Shared centraliza regras de negócio agnósticas para <b>Android, iOS, Web e Desktop</b>.
       </p>
       <p>
-        • <b>Arquitetura:</b> Clean Arch + SOLID. <br>
-        • <b>Stack:</b> Kotlin 2.2.21 & Compose 1.9.3. <br>
+        • <b>Arquitetura:</b> Clean Arch + SOLID.<br>
+        • <b>Stack:</b> Kotlin 2.2.21 & Compose 1.9.3.<br>
         • <b>UI:</b> Design Dark Luxury Minimalista.
       </p>
       <div align="center">
