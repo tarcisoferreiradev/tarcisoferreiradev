@@ -58,8 +58,8 @@
         Plataforma multiplataforma (KMP) de nutrição. O Core Shared centraliza regras de negócio agnósticas para <b>Android, iOS, Web e Desktop</b>.
       </p>
       <p>
-        • <b>Arquitetura:</b> Clean Arch + SOLID.<br>
-        • <b>Stack:</b> Kotlin 2.2.21 & Compose 1.9.3.<br>
+        • <b>Arquitetura:</b> Clean Arch + SOLID. <br>
+        • <b>Stack:</b> Kotlin 2.2.21 & Compose 1.9.3. <br>
         • <b>UI:</b> Design Dark Luxury Minimalista.
       </p>
       <div align="center">
