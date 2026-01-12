@@ -39,6 +39,13 @@
 <br/>
 
 <div align="center">
+  <h3>🏅 GitHub Achievements & Reputation</h3>
+  <img src="./github-metrics.svg" width="100%" alt="GitHub Achievements and Metrics" />
+</div>
+
+<br/>
+
+<div align="center">
   <h3>📊 Domínio de Linguagens</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisoferreiradev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Linguagens de tarcisoferreiradev" />
 </div>
