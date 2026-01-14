@@ -71,7 +71,7 @@
       </p>
       <div align="center">
         <a href="https://github.com/tarcisoferreiradev/alimentandofasesapp">
-          <img src="https://img.shields.io/badge/Ver_Código-100000?style=for-the-badge&logo=github&logoColor=white" />
+          <img width="1336" height="746" alt="Image" src="https://github.com/user-attachments/assets/c3d31aef-1fb3-4fdf-b061-b586e0a54811" />
         </a>
       </div>
     </td>
