@@ -1,63 +1,9 @@
-<div align="center">
-  <a href="https://github.com/tarcisoferreiradev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+o+Tarciso!+👋;Campus+Expert+@DIO;Fullstack+Developer;Software+Engineering+Student;Nutritionist+in+Training" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  
-  > *"Arquitetando sistemas resilientes na intersecção entre tecnologia de ponta e ciência da saúde."* 🏛️🍎
-  
-  <br/>
-
-  <p align="center">
-      🚀 <b>Ecossistema Principal:</b> <a href="https://github.com/tarcisoferreiradev/alimentandofasesapp">Alimentando Fases</a> (KMP/Wasm)<br/>
-      🎓 <b>Acadêmico:</b> Análise e Desenvolvimento de Sistemas & Nutrição<br/>
-      ⚡ <b>Especialidade:</b> Clean Architecture, Mobile-First & WebGL Experience<br/>
-      🥋 <b>Lifestyle:</b> Kickboxing, Karatê & Krav Maga
-  </p>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🛠️ Arsenal Tecnológico</h3>
-  
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
-  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white">
-  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white">
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🏅 GitHub Achievements & Reputation</h3>
-  <img src="./github-metrics.svg" width="100%" alt="GitHub Achievements and Metrics" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>📊 Domínio de Linguagens</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisoferreiradev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Linguagens de tarcisoferreiradev" />
-</div>
-
-<br/>
-
 <h2 align="center">🚀 Projetos de Missão Crítica</h2>
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%">
-      <img src="https://github.com/user-attachments/assets/2258533b-ed7c-4615-a8d0-45d069f3ad24" alt="Alimentando Fases" width="100%" style="border-radius: 10px; border: 1px solid #30363d;">
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/c3d31aef-1fb3-4fdf-b061-b586e0a54811" alt="Alimentando Fases Preview" width="100%" style="border-radius: 10px; border: 1px solid #30363d;">
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🍎 Alimentando Fases</h3>
@@ -71,7 +17,7 @@
       </p>
       <div align="center">
         <a href="https://github.com/tarcisoferreiradev/alimentandofasesapp">
-          <img width="1336" height="746" alt="Image" src="https://github.com/user-attachments/assets/c3d31aef-1fb3-4fdf-b061-b586e0a54811" />
+          <img src="https://img.shields.io/badge/Ver_Código-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
     </td>
@@ -102,14 +48,3 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/tarcisoferreiradev" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-  <a href="mailto:contato@tarcisoferreira.dev">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
