@@ -56,7 +56,7 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/c3d31aef-1fb3-4fdf-b061-b586e0a54811" alt="Alimentando Fases" width="100%" style="border-radius: 10px; border: 1px solid #30363d;">
     </td>
     <td width="50%" valign="top">
@@ -71,7 +71,7 @@
       </p>
       <div align="center">
         <a href="https://github.com/tarcisoferreiradev/alimentandofasesapp">
-          <img width="1336" height="746" alt="Image" src="https://github.com/user-attachments/assets/c3d31aef-1fb3-4fdf-b061-b586e0a54811" />
+          <img src="https://img.shields.io/badge/Ver_Código-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
     </td>
