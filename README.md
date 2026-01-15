@@ -56,7 +56,7 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%">
       <img src="https://github.com/user-attachments/assets/c3d31aef-1fb3-4fdf-b061-b586e0a54811" alt="Alimentando Fases" width="100%" style="border-radius: 10px; border: 1px solid #30363d;">
     </td>
     <td width="50%" valign="top">
@@ -98,7 +98,7 @@
       </div>
     </td>
     <td width="50%">
-      <img src="https://github.com/user-attachments/assets/69f3d0a2-35d4-4746-bee2-413fa3d35a87" alt="AURUM '25" width="100%" style="border-radius: 10px; border: 1px solid #30363d;">
+      <img width="1366" height="768" alt="AURUM '25 Preview" src="https://github.com/user-attachments/assets/04433997-91aa-4680-8b1a-f0b1054ac435" style="border-radius: 10px; border: 1px solid #30363d; width: 100%; height: auto;">
     </td>
   </tr>
 </table>
