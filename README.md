@@ -46,7 +46,7 @@
 
 <div align="center">
   <h3>📊 Domínio de Linguagens</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisoferreiradev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Linguagens de tarcisoferreiradev" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisoferreiradev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=450" alt="Linguagens de tarcisoferreiradev" />
 </div>
 
 <br/>
