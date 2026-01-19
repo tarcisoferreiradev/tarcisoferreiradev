@@ -38,14 +38,6 @@
 <br/>
 
 <div align="center">
-  <h3>📈 Engineering Metrics</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=tarcisoferreiradev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarcisoferreiradev&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
   <h3>📊 Domínio de Linguagens</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisoferreiradev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=450" alt="Linguagens de tarcisoferreiradev" />
 </div>
