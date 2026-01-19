@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/tarcisoferreiradev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+o+Tarciso!+👋;Campus+Expert+@DIO;Fullstack+Developer;Software+Engineering+Student;Nutritionist+in+Training" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Engineer;Mobile+Multiplatform+Expert+(KMP);Clean+Architecture+Enthusiast;Full+Stack+Development;High-Performance+Computing" alt="Typing SVG" />
   </a>
 </div>
 
@@ -38,8 +38,9 @@
 <br/>
 
 <div align="center">
-  <h3>🏅 GitHub Achievements & Reputation</h3>
-  <img src="./github-metrics.svg" width="100%" alt="GitHub Achievements and Metrics" />
+  <h3>📈 Engineering Metrics</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=tarcisoferreiradev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarcisoferreiradev&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <br/>
