@@ -22,17 +22,16 @@
 <br/>
 
 <div align="center">
-  <h3>🛠️ Arsenal Tecnológico</h3>
-  
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
-  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white">
-  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white">
+  <h3>🔗 Tech Ecosystem & Arsenal</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Architecture-Clean_Arch_|_SOLID-0D1117?style=for-the-badge&logo=architecture&logoColor=white&labelColor=7F52FF">
+    <img src="https://img.shields.io/badge/Core-Kotlin_Multiplatform-0D1117?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5">
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Web-Three.js_|_Wasm-0D1117?style=for-the-badge&logo=three.js&logoColor=white&labelColor=black">
+    <img src="https://img.shields.io/badge/UI-Jetpack_Compose-0D1117?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=4285F4">
+    <img src="https://img.shields.io/badge/Frontend-React_|_TS-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=3178C6">
+  </p>
 </div>
 
 <br/>
