@@ -37,10 +37,13 @@
 
 <br/>
 
-<div align="center">
-  <h3>📊 Domínio de Linguagens</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisoferreiradev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=450" alt="Linguagens de tarcisoferreiradev" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tarcisoferreiradev/tarcisoferreiradev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tarcisoferreiradev/tarcisoferreiradev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tarcisoferreiradev/tarcisoferreiradev/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <br/>
 
