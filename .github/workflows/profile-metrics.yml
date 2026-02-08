@@ -1,12 +1,18 @@
-name: GitHub Metrics Professional
+name: GitHub Metrics Professional & Snake
 on:
   schedule:
     - cron: "0 0 * * *" # Execução diária à meia-noite
-  workflow_dispatch: # Permite que você execute manualmente para testar agora
+  workflow_dispatch: # Permite execução manual
+  push:
+    branches: ["main"]
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
+      # 1. Geração das Métricas (Achievements e Languages)
       - name: General Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -16,19 +22,15 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
           
-          # Plugin de Medalhas (Achievements)
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
           
-          # Análise de Stack (Alinhado ao projeto Alimentando Fases)
           plugin_languages: yes
           plugin_languages_details: percentage
-
           plugin_languages_sections: most-used
 
-          # Adicione este step após o General Metrics
+      # 2. Geração da Animação Snake (Contribuições)
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
@@ -36,13 +38,12 @@ jobs:
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to Output Branch
+      # 3. Deploy dos assets para o branch 'output'
+      - name: Push Assets to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
