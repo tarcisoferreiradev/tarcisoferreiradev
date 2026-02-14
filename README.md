@@ -8,8 +8,6 @@
 
 <div align="center">
   
-  > *"Arquitetando sistemas resilientes na intersecção entre tecnologia de ponta e ciência da saúde."* 🏛️🍎
-  
   <br/>
 
   <p align="center">
