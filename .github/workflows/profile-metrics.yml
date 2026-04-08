@@ -1,49 +1,37 @@
-name: GitHub Metrics Professional & Snake
+name: Generate Datas
+
 on:
-  schedule:
-    - cron: "0 0 * * *" # Execução diária à meia-noite
+  schedule: # Executa a cada 24 horas
+    - cron: "0 0 * * *" 
   workflow_dispatch: # Permite execução manual
   push:
-    branches: ["main"]
+    branches:
+      - main
 
 jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    permissions:
+  generate:
+    permissions: 
       contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
     steps:
-      # 1. Geração das Métricas (Achievements e Languages)
-      - name: General Metrics
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: tarcisoferreiradev
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: America/Sao_Paulo
-          
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          
-          plugin_languages: yes
-          plugin_languages_details: percentage
-          plugin_languages_sections: most-used
-
-      # 2. Geração da Animação Snake (Contribuições)
-      - name: Generate Snake Animation
+      # Gera a animação da cobrinha (Snake)
+      - name: generate-github-contribution-grid-snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: tarcisoferreiradev
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 3. Deploy dos assets para o branch 'output'
-      - name: Push Assets to Output Branch
+      # Faz o deploy dos arquivos gerados para a branch 'output'
+      - name: push github-contribution-grid-snake to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
