@@ -33,11 +33,11 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisoferreiradev&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&cache_seconds=1800" alt="Top Languages" />
+      <td width="50%" align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisoferreiradev&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&v=2" alt="Top Languages" />
       </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarcisoferreiradev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&cache_seconds=1800" alt="GitHub Stats" />
+      <td width="50%" align="center">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarcisoferreiradev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&v=2" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
