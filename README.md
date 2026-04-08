@@ -4,20 +4,15 @@
   </a>
 </div>
 
-<br/>
-
 <div align="center">
-  
-  <br/>
-
-  <p align="center">
+  <p>
       🚀 <b>Ecossistema Principal:</b> <a href="https://github.com/tarcisoferreiradev/Alimentando-fases.git">Alimentando Fases</a> (KMP/Wasm)<br/>
       🎓 <b>Acadêmico:</b> Análise e Desenvolvimento de Sistemas & Nutrição<br/>
       ⚡ <b>Especialidade:</b> Clean Architecture, Mobile-First & WebGL Experience<br/>
   </p>
 </div>
 
-<br/>
+<hr />
 
 <div align="center">
   <h3>🛠️ Arsenal Tecnológico</h3>
@@ -31,6 +26,21 @@
   <img src="https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
   <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white">
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white">
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisoferreiradev&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF" alt="Top Languages" />
+      </td>
+      <td width="50%">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarcisoferreiradev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
