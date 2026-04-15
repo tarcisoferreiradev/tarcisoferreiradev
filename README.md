@@ -7,7 +7,7 @@
 <div align="center"> 
   <p>
       🚀 <b>Ecossistema Principal:</b> <a href="https://github.com/tarcisoferreiradev/Alimentando-fases.git">Alimentando Fases</a> (KMP/Wasm)<br/>
-      🎓 <b>Acadêmico:</b> Análise e Desenvolvimento de Sistemas & Nutrição<br/>
+      🎓 <b>Acadêmico:</b> Análise e Desenvolvimento de Sistemas<br/>
       ⚡ <b>Especialidade:</b> Clean Architecture, Mobile-First & WebGL Experience<br/>
   </p>
 </div>
