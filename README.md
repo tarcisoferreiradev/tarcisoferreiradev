@@ -51,7 +51,7 @@
 
 <br/>
 
-<h2 align="center">🚀 Projetos de Missão Crítica</h2>
+<h2 align="center">🚀 Principais Projetos</h2>
 
 <table border="0" width="100%">
   <tr>
