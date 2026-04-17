@@ -65,7 +65,7 @@
       </p>
       <p>
         • <b>Arquitetura:</b> Clean Arch + SOLID. <br>
-        • <b>Stack:</b> Kotlin 2.2.21 & Compose 1.9.3. <br>
+        • <b>Stack:</b> JavaScript, TypeScript, Assembly <br>
         • <b>UI:</b> Design Dark Luxury Minimalista.
       </p>
       <div align="center">
