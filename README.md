@@ -99,16 +99,3 @@
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
-
-<br/>
-
-<div align="center">
-  <h2>🎮 XLE Retro Arcade</h2>
-  <p>Clique nas setas da imagem para controlar e jogar direto pelo README!</p>
-
-  <a href="https://github-readme-activity-graph.vercel.app/game?username=tarcisoferreiradev&action=play">
-    <img src="https://github-readme-activity-graph.vercel.app/game?username=tarcisoferreiradev" alt="Git Arcade Game" />
-  </a>
-</div>
-
-<br/>
