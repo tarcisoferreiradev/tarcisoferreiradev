@@ -25,21 +25,6 @@
 <br/>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisoferreiradev&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&v=2" alt="Top Languages" />
-      </td>
-      <td width="50%" align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarcisoferreiradev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&v=2" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/tarcisoferreiradev/tarcisoferreiradev/output/snake.svg" alt="Snake animation" />
 </div>
 
