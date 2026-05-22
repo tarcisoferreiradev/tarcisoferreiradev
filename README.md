@@ -1,3 +1,13 @@
+<div align="center"> 
+  <p>
+      🚀 <b>Ecossistema Principal:</b> <a href="https://github.com/tarcisoferreiradev/Alimentando-fases.git">Alimentando Fases</a> (KMP/Wasm)<br/>
+      🎓 <b>Acadêmico:</b> Análise e Desenvolvimento de Sistemas<br/>
+      ⚡ <b>Especialidade:</b> Clean Architecture, Mobile-First & WebGL Experience<br/>
+  </p>
+</div>
+
+<hr />
+
 <div align="center">
   <h3>⚡ Engenharia de Core & Interfaces Premium</h3>
 
@@ -19,3 +29,104 @@
   <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="ThreeJS">
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="Wasm">
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tarcisoferreiradev/tarcisoferreiradev/output/snake.svg" alt="Snake animation" />
+</div>
+
+<br/>
+
+<h2 align="center">🚀 Principais Projetos</h2>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/c3d31aef-1fb3-4fdf-b061-b586e0a54811" alt="Alimentando Fases" width="100%" style="border-radius: 10px; border: 1px solid #30363d;">
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🍎 Alimentando Fases</h3>
+      <p align="justify">
+        Plataforma multiplataforma (KMP) de nutrição. O Core Shared centraliza regras de negócio agnósticas para <b>Android, iOS, Web e Desktop</b>.
+      </p>
+      <p>
+        • <b>Arquitetura:</b> Clean Arch + SOLID. <br>
+        • <b>Stack:</b> JavaScript, TypeScript, Assembly <br>
+        • <b>UI:</b> Design Dark Luxury Minimalista.
+      </p>
+      <div align="center">
+        <a href="https://github.com/tarcisoferreiradev/Alimentando-fases.git">
+          <img src="https://img.shields.io/badge/Ver_Código-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">✨ AURUM '25</h3>
+      <p align="justify">
+        Experiência <b>3D/WebGL</b> imersiva. Renderização cinematográfica com shaders customizados e otimização de performance.
+      </p>
+      <p>
+        • <b>Engine:</b> Three.js & GLSL Shaders.<br>
+        • <b>Motion:</b> GSAP & Lenis Smooth Scroll.
+      </p>
+      <div align="center">
+        <a href="https://github.com/tarcisoferreiradev/AURUM">
+          <img src="https://img.shields.io/badge/Ver_Código-100000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <img width="1366" height="768" alt="AURUM '25 Preview" src="https://github.com/user-attachments/assets/04433997-91aa-4680-8b1a-f0b1054ac435" style="border-radius: 10px; border: 1px solid #30363d; width: 100%; height: auto;">
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <a href="https://linkedin.com/in/tarcisoferreiradev" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> 
+  <a href="mailto:contato@tarcisoferreira.dev">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
+<br/>
+<hr />
+<br/>
+
+# 📚 Projeto: Sistema de Gestão Acadêmica (PostgreSQL)
+
+Este módulo do repositório contém a especificação física, carga de dados de teste e consultas estruturadas para o ecossistema de banco de dados relacional desenvolvido para a disciplina de Banco de Dados.
+
+## 👥 Integrantes do Grupo
+* **Tarciso Ferreira Da Silva Neto**
+* **Vinicius Lopes Rodrigues**
+* **Matheus Gabriel Cândido de Souza**
+* **Paulo Eduardo Peres**
+* **Guilherme David Sena**
+* **Daniel José Marques Carvalho**
+* **Ycaro Agrielle Martiniano Nobre de Lacerda**
+
+---
+
+## 🎓 Informações Acadêmicas
+* **Instituição:** Estácio
+* **Disciplina:** Banco de Dados
+* **Professor Orientador:** Lucas Clóvis
+* **Abordagem Técnica:** Engenharia de Dados de Missão Crítica e Integridade Referencial Estrita
+
+---
+
+## 🏗️ Arquitetura do Banco de Dados
+
+O modelo lógico foi projetado seguindo os princípios de **Clean Architecture** aplicados a dados e **Separation of Concerns (SoC)**, garantindo o isolamento de domínios e eliminando estados inconsistentes ou dados órfãos em ambiente de produção.
