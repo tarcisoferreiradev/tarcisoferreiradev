@@ -99,34 +99,3 @@
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
-
-<br/>
-<hr />
-<br/>
-
-# 📚 Projeto: Sistema de Gestão Acadêmica (PostgreSQL)
-
-Este módulo do repositório contém a especificação física, carga de dados de teste e consultas estruturadas para o ecossistema de banco de dados relacional desenvolvido para a disciplina de Banco de Dados.
-
-## 👥 Integrantes do Grupo
-* **Tarciso Ferreira Da Silva Neto**
-* **Vinicius Lopes Rodrigues**
-* **Matheus Gabriel Cândido de Souza**
-* **Paulo Eduardo Peres**
-* **Guilherme David Sena**
-* **Daniel José Marques Carvalho**
-* **Ycaro Agrielle Martiniano Nobre de Lacerda**
-
----
-
-## 🎓 Informações Acadêmicas
-* **Instituição:** Estácio
-* **Disciplina:** Banco de Dados
-* **Professor Orientador:** Lucas Clóvis
-* **Abordagem Técnica:** Engenharia de Dados de Missão Crítica e Integridade Referencial Estrita
-
----
-
-## 🏗️ Arquitetura do Banco de Dados
-
-O modelo lógico foi projetado seguindo os princípios de **Clean Architecture** aplicados a dados e **Separation of Concerns (SoC)**, garantindo o isolamento de domínios e eliminando estados inconsistentes ou dados órfãos em ambiente de produção.
