@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://github.com/tarcisoferreiradev"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Engineer;Mobile+Multiplatform+Expert+  (KMP);Clean+Architecture+Enthusiast;Full+Stack+Development;High-Performance+Computing" alt="Typing SVG" /> 
-  </a>
-</div> 
-
 <div align="center"> 
   <p>
       🚀 <b>Ecossistema Principal:</b> <a href="https://github.com/tarcisoferreiradev/Alimentando-fases.git">Alimentando Fases</a> (KMP/Wasm)<br/>
